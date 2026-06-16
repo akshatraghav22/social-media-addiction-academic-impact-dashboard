@@ -2,7 +2,7 @@
 
 ## Project Report
 
-![Project Report](project report.png)
+![project Report](project report.png)
 
 ## Project Overview
 
