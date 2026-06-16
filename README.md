@@ -26,6 +26,14 @@ The dashboard provides insights into usage patterns, addiction levels, study hab
 * Demographic Insights
 * Dynamic Filters and Slicers
 
+### Academic Performance Analysis
+
+![Academic Impact](academic_performance_analysis.png)
+
+### Social Media Usage Insights
+
+![Social_Media_Insights](social_media_usage_insights.png)
+
 ## Key Findings
 
 * Higher daily social media usage was associated with lower academic performance.
