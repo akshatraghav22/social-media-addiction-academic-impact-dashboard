@@ -1,5 +1,9 @@
 # Students Social Media Addiction & Academic Impact Dashboard
 
+## Project Report
+
+![Project Report](project report.png)
+
 ## Project Overview
 
 
