@@ -9,7 +9,7 @@ Developed an interactive Power BI dashboard to analyze the relationship between 
 
 The dashboard provides insights into usage patterns, addiction levels, study habits, and their impact on academic outcomes.
 ![Dashboard](dashboard_overview.png)
-![Academic Impaact](AcademicImpact.png)
+![Academic Impaact](Academic_Impact.png)
 ## Objectives
 
 * Analyze social media usage among students
