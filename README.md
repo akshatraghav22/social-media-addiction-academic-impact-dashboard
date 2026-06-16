@@ -3,9 +3,10 @@
 ## Project Report
 
 ![project report](Project_Report.png)
+
 ## Project Overview
 
-
+![Dashboard](dashboard_overview.png)
 Developed an interactive Power BI dashboard to analyze the relationship between students' social media usage and academic performance.
 
 The dashboard provides insights into usage patterns, addiction levels, study habits, and their impact on academic outcomes.
