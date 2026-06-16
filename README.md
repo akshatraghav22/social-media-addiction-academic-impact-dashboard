@@ -28,10 +28,10 @@ The dashboard provides insights into usage patterns, addiction levels, study hab
 
 ## Key Findings
 
-• Higher daily social media usage was associated with lower academic performance.
-• Students with excessive screen time reported reduced study hours.
-• Certain behavioral patterns indicated a higher risk of social media addiction.
-• Interactive dashboards enabled detailed exploration of student engagement trends.
+* Higher daily social media usage was associated with lower academic performance.
+* Students with excessive screen time reported reduced study hours.
+* Certain behavioral patterns indicated a higher risk of social media addiction.
+* Interactive dashboards enabled detailed exploration of student engagement trends.
 
 ## Tools Used
 
