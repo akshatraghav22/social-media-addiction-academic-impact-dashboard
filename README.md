@@ -131,6 +131,4 @@ Excel · Power BI Desktop · Power Query · DAX
 
 ---
 
-## 📁 Repo
-
-[github.com/akshatraghav22/social-media-addiction-academic-impact-dashboard](https://github.com/akshatraghav22/social-media-addiction-academic-impact-dashboard)
+social-media-addiction-academic-impact-dashboard)
